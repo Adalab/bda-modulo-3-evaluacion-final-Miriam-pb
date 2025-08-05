@@ -1,0 +1,18 @@
+5/08/2025
+
+Este repositorio tiene como objetivo la evaluación de mis conocimientos en EDA, visualización y estadística.
+
+Análisis Exploratorio de los datos.
+Gestión de nulos. 
+Visualización de datos con matplotlib y seaborn.
+Estadística descriptiva e inferencial.
+
+Utilizando los csv 'customer_flight_activity' y 'customer_loyalty_history', los he cargado en dataframes para primero observar los datos con diferentes métodos de pandas (.info(), .sample(), .describe(), .value_counts(), .unique(), .sum(), etc), he gestionado nulos, duplicados y valores atípicos(negativos). Después he tenido que contestar a diferentes preguntas 
+(¿Cómo se distribuye la cantidad de vuelos reservados por mes durante el año?
+¿Existe una relación entre la distancia de los vuelos y los puntos acumulados por los cliente?
+¿Cuál es la distribución de los clientes por provincia o estado?
+¿Cómo se compara el salario promedio entre los diferentes niveles educativos de los clientes?
+¿Cuál es la proporción de clientes con diferentes tipos de tarjetas de fidelidad?
+¿Cómo se distribuyen los clientes según su estado civil y género?)
+todas ellas con gráficas para visualizar los datos y la estadistica descriptiva (media, varianza, correlacion positiva...).
+Finalmente he llegado a conclusiones utiles con los datos de la compañia para ppoder enfocar el marketing a los clientes mas comunes, las fechas de mayor venta...
